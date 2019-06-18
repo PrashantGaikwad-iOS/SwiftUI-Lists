@@ -11,10 +11,10 @@ import SwiftUI
 struct ContentView : View {
     
     @State var employees = [
-        Employee(id: 0, name: "Prashant", designation: "iOS dev", color: .red),
+        Employee(id: 0, name: "Prashant G", designation: "iOS dev", color: .red),
         Employee(id: 1, name: "Swapnil", designation: "Android dev", color: .green),
         Employee(id: 2, name: "Aman", designation: "iOS dev", color: .red),
-        Employee(id: 3, name: "Bhagyawant", designation: "iOS dev", color: .green),
+        Employee(id: 3, name: "Bhagyawant B", designation: "Android dev", color: .green),
         Employee(id: 4, name: "Vipin", designation: "Web dev", color: .blue),
         Employee(id: 5, name: "Apporva", designation: "Designer", color: .orange),
         Employee(id: 6, name: "Ganesh", designation: "QA", color: .purple),
